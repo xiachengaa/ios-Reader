@@ -1,6 +1,7 @@
 # ios-Reader
 整理自己要经常关注的博客和平台等。
-##iOS：
+
+## iOS：
 1、[github 热点](https://github.com/explore)
 当前技术热点
 
@@ -92,7 +93,7 @@ CYLTabBarController 作者，博客也是篇篇经典。
 J_Knight的文章总是清晰易懂，更新的也很勤快。
 
 
-##SWIFT
+## SWIFT
 
 1、[swiftNews](https://swiftnews.curated.co/)
 
